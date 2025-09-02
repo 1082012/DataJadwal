@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": 1756797768511,
+    "pelajaran": "IPA",
+    "hari": "Senin",
+    "kelas": "8F",
+    "waktuMulai": "13:00",
+    "waktuSelesai": "13:50",
+    "guru": "Rizky Apriliani"
+  }
+]
