@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "hari": "Senin",
+    "sesi": "Pagi",
+    "kelas": "8F",
+    "waktuMulai": "13:00",
+    "waktuSelesai": "16:25",
+    "walikelas": "Rizky Apriliani",
+    "pelajaran": "IPA, BK, IPS, \nB INGGRIS",
+    "guru": "Rizky Apr, Merry, Wulan, Rahmat"
+  }
+]
