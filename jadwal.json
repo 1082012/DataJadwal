@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "hari": "Senin",
+    "sesi": "Pagi",
+    "kelas": "8F",
+    "waktuMulai": "13:10",
+    "waktuSelesai": "16:25",
+    "walikelas": "Ibu Rizky Apriliani",
+    "pelajaran": "IPA, BK, IPS, B INGGRIS, PKN",
+    "guru": "RIZKY APR, MERRY ANG, WULAN P, RAHMAT, ENDIS"
+  }
+]
